@@ -8,7 +8,7 @@
       <Properties>
         <Configuration>
           <Passwords />
-          <File OutputFileName="" RecordLimit="" SearchSubDirs="False" FileFormat="0">C:\Users\olive\Documents\GitHub\Data-Science-For-Business-Decisions\Lecture 3\OD_2017-04.csv</File>
+          <File OutputFileName="" RecordLimit="" SearchSubDirs="False" FileFormat="0">C:\Users\olive\Documents\GitHub\Data-Science-For-Business-Decisions\Week 3\OD_2017-04.csv</File>
           <FormatSpecificOptions>
             <CodePage>28591</CodePage>
             <Delimeter>,</Delimeter>
@@ -25,14 +25,17 @@
           <DefaultAnnotationText>OD_2017-04.csv</DefaultAnnotationText>
           <Left value="False" />
         </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
         <MetaInfo connection="Output">
           <RecordInfo>
-            <Field name="start_date" size="254" source="File: C:\Users\olive\Documents\GitHub\Data-Science-For-Business-Decisions\Lecture 3\OD_2017-04.csv" type="V_String" />
-            <Field name="start_station_code" size="254" source="File: C:\Users\olive\Documents\GitHub\Data-Science-For-Business-Decisions\Lecture 3\OD_2017-04.csv" type="V_String" />
-            <Field name="end_date" size="254" source="File: C:\Users\olive\Documents\GitHub\Data-Science-For-Business-Decisions\Lecture 3\OD_2017-04.csv" type="V_String" />
-            <Field name="end_station_code" size="254" source="File: C:\Users\olive\Documents\GitHub\Data-Science-For-Business-Decisions\Lecture 3\OD_2017-04.csv" type="V_String" />
-            <Field name="duration_sec" size="254" source="File: C:\Users\olive\Documents\GitHub\Data-Science-For-Business-Decisions\Lecture 3\OD_2017-04.csv" type="V_String" />
-            <Field name="is_member" size="254" source="File: C:\Users\olive\Documents\GitHub\Data-Science-For-Business-Decisions\Lecture 3\OD_2017-04.csv" type="V_String" />
+            <Field name="start_date" size="254" source="File: C:\Users\olive\Documents\GitHub\Data-Science-For-Business-Decisions\Week 3\OD_2017-04.csv" type="V_String" />
+            <Field name="start_station_code" size="254" source="File: C:\Users\olive\Documents\GitHub\Data-Science-For-Business-Decisions\Week 3\OD_2017-04.csv" type="V_String" />
+            <Field name="end_date" size="254" source="File: C:\Users\olive\Documents\GitHub\Data-Science-For-Business-Decisions\Week 3\OD_2017-04.csv" type="V_String" />
+            <Field name="end_station_code" size="254" source="File: C:\Users\olive\Documents\GitHub\Data-Science-For-Business-Decisions\Week 3\OD_2017-04.csv" type="V_String" />
+            <Field name="duration_sec" size="254" source="File: C:\Users\olive\Documents\GitHub\Data-Science-For-Business-Decisions\Week 3\OD_2017-04.csv" type="V_String" />
+            <Field name="is_member" size="254" source="File: C:\Users\olive\Documents\GitHub\Data-Science-For-Business-Decisions\Week 3\OD_2017-04.csv" type="V_String" />
           </RecordInfo>
         </MetaInfo>
       </Properties>
@@ -45,7 +48,7 @@
       <Properties>
         <Configuration>
           <Passwords />
-          <File OutputFileName="" RecordLimit="" SearchSubDirs="False" FileFormat="0">C:\Users\olive\Documents\GitHub\Data-Science-For-Business-Decisions\Lecture 3\Stations_2017.csv</File>
+          <File OutputFileName="" RecordLimit="" SearchSubDirs="False" FileFormat="0">C:\Users\olive\Documents\GitHub\Data-Science-For-Business-Decisions\Week 3\Stations_2017.csv</File>
           <FormatSpecificOptions>
             <CodePage>65001</CodePage>
             <Delimeter>,</Delimeter>
@@ -62,12 +65,15 @@
           <DefaultAnnotationText>Stations_2017.csv</DefaultAnnotationText>
           <Left value="False" />
         </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
         <MetaInfo connection="Output">
           <RecordInfo>
-            <Field name="code" size="254" source="File: C:\Users\olive\Documents\GitHub\Data-Science-For-Business-Decisions\Lecture 3\Stations_2017.csv" type="V_WString" />
-            <Field name="name" size="254" source="File: C:\Users\olive\Documents\GitHub\Data-Science-For-Business-Decisions\Lecture 3\Stations_2017.csv" type="V_WString" />
-            <Field name="latitude" size="254" source="File: C:\Users\olive\Documents\GitHub\Data-Science-For-Business-Decisions\Lecture 3\Stations_2017.csv" type="V_WString" />
-            <Field name="longitude" size="254" source="File: C:\Users\olive\Documents\GitHub\Data-Science-For-Business-Decisions\Lecture 3\Stations_2017.csv" type="V_WString" />
+            <Field name="code" size="254" source="File: C:\Users\olive\Documents\GitHub\Data-Science-For-Business-Decisions\Week 3\Stations_2017.csv" type="V_WString" />
+            <Field name="name" size="254" source="File: C:\Users\olive\Documents\GitHub\Data-Science-For-Business-Decisions\Week 3\Stations_2017.csv" type="V_WString" />
+            <Field name="latitude" size="254" source="File: C:\Users\olive\Documents\GitHub\Data-Science-For-Business-Decisions\Week 3\Stations_2017.csv" type="V_WString" />
+            <Field name="longitude" size="254" source="File: C:\Users\olive\Documents\GitHub\Data-Science-For-Business-Decisions\Week 3\Stations_2017.csv" type="V_WString" />
           </RecordInfo>
         </MetaInfo>
       </Properties>
@@ -96,7 +102,7 @@
       </GuiSettings>
       <Properties>
         <Configuration>
-          <TempFile>C:\Users\olive\AppData\Local\Temp\Engine_14208_dd30562750774596a767b6bfad9e9493_\Engine_420_89625fcf17cf47cf8b76016c39dd0e6e_.yxdb</TempFile>
+          <TempFile>C:\Users\olive\AppData\Local\Temp\Engine_7088_55e091af55e94757a97887969b329758_\Engine_7040_e556a22ca7d94a77ada5b6731dca9b1f_.yxdb</TempFile>
           <TempFileDataProfiling />
           <Layout>
             <ViewMode>Single</ViewMode>
@@ -127,7 +133,7 @@
       </GuiSettings>
       <Properties>
         <Configuration>
-          <TemporaryFileLocationXML>C:\Users\olive\AppData\Local\Temp\Engine_14208_dd30562750774596a767b6bfad9e9493_\Engine_420_9c406d60f3664afcb0fa991c28db5f83_.xml</TemporaryFileLocationXML>
+          <TemporaryFileLocationXML>C:\Users\olive\AppData\Local\Temp\Engine_7088_55e091af55e94757a97887969b329758_\Engine_7040_5c76e615959640bbbe146c275dc06112_.xml</TemporaryFileLocationXML>
           <IsMetric value="False" />
           <ImageWidth>8</ImageWidth>
           <ImageHeight>6</ImageHeight>
@@ -195,9 +201,6 @@
           <DefaultAnnotationText />
           <Left value="False" />
         </Annotation>
-        <Dependencies>
-          <Implicit />
-        </Dependencies>
       </Properties>
       <EngineSettings Macro="HeaderMacro.yxmc" />
     </Node>
